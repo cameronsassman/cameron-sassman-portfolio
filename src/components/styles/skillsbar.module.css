@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #000000;
+  background-size: cover;
+  background-attachment: fixed;
+  color: #ffffff;
+  font-family: "IBM Plex Mono", monospace;
+}
+
+.banner {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  background: #ffffff;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.skills {
+  display: flex;
+  justify-content: space-between;
+}
+
+.skills img {
+  width: 5%;
+  flex-shrink: 0;
+}
