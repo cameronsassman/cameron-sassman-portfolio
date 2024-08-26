@@ -91,9 +91,8 @@ const Intro = () => {
                   </div>
                   <div>
                     <p className={classes.description}>
-                      Hi there, welcome to my site. Built from the ground up
-                      with late-night coding, a caffeine addiction and lots of
-                      fun
+                      Hi there, welcome to my site. Built by me with late-night
+                      coding, a caffeine addiction and lots of fun
                       <br />
                     </p>
                   </div>

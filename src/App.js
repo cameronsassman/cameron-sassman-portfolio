@@ -29,7 +29,7 @@ function App() {
         </Routes>
       </Router>
       <footer>
-        <p>Crafted by Me using React Js & too much coffee 👾</p>
+        <p>Crafted by Cameron Sassman using React Js & too much coffee 👾</p>
       </footer>
     </>
   );
