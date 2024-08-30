@@ -31,3 +31,24 @@ body {
   width: 5%;
   flex-shrink: 0;
 }
+
+@media only screen and (max-width: 820px) {
+  .banner {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background: #ffffff;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+  .skills {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .skills img {
+    width: 9%;
+    flex-shrink: 0;
+  }
+}
