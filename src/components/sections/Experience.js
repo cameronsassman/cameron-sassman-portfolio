@@ -12,6 +12,20 @@ const Experience = () => {
 
           <div className={classes.contentarea}>
             <p className={classes.description}>
+              <p className={classes.subheading}>{"{Web Developer Intern}"}</p>
+              <p className={classes.heading}>Ad Makers International</p>
+              During my internship at Ad Makers International, I gained hands-on
+              experience with Next.js by building small internal components to
+              strengthen my understanding of core frontend principles. I also
+              explored modern web development tools and workflows, which helped
+              me develop a more practical and structured approach to building
+              user interfaces. This experience deepened my interest in frontend
+              development and further fueled my passion for creating seamless
+              web experiences.
+              <p className={classes.date}>Jan 2025 - Mar 2025</p>
+            </p>
+
+            <p className={classes.description}>
               <p className={classes.subheading}>
                 {"{Junior Frontend Developer}"}
               </p>
